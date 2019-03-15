@@ -2,7 +2,7 @@
 name: Daily log check
 about: Template for recurring daily log checks.
 title: Check server logs
-labels: Log check
+labels: Log check, Daily recurring
 assignees: ''
 
 ---

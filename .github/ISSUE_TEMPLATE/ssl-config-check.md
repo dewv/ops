@@ -2,7 +2,7 @@
 name: SSL config check
 about: Template for recurring weekly SSL config checks.
 title: Check SSL config
-labels: Weekly recurring, SSL config check
+labels: SSL config check, Weekly recurring
 assignees: ''
 
 ---
