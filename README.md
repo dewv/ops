@@ -11,5 +11,5 @@
 ### Daily tasks
 | Task                 | Mon  | Tue  | Wed  | Thu  | Fri  |
 | -------------------- | ---- | ---- | ---- | ---- | ---- |
-| Server logs          | who? |      |      |      |      |
+| Server logs          | Emre | Emre |      |      |      |
 | Service availability |      |      |      |      |      |
