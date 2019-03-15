@@ -2,7 +2,7 @@
 name: Services check
 about: Template for recurring daily service checks.
 title: Check services
-labels: Services check
+labels: Daily recurring, Services check
 assignees: ''
 
 ---
