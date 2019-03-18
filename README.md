@@ -8,10 +8,10 @@
 
 | Task                                                         | Assignee |
 | ------------------------------------------------------------ | ---- |
-| SSL configuration test | who?     |
+| SSL configuration test | Rayan     |
 
 ### Daily recurring tasks
 | Task                 | Mon  | Tue  | Wed  | Thu  | Fri  |
 | -------------------- | ---- | ---- | ---- | ---- | ---- |
-| Server logs          | Emre | Emre |Ricard|      |Jereomy|
-| Service availability |Ricard|      |      |      |Jereomy|
+| Server logs          | Emre | Emre |Ricard| Greg |Jereomy|
+| Service availability |Ricard| Jake | Lauren | Hussam |Jereomy|
