@@ -1,6 +1,6 @@
 ---
 name: Customer request (not for operations problems)
-about: Template for user requests, NOT including operations problems.
+about: Template for customer/user requests, NOT including operations problems.
 title: "[CUSTOMER REQUEST]"
 labels: Customer request
 assignees: ''
