@@ -15,5 +15,6 @@ assignees: ''
 If this issue was reported by mail to `help@dewv.net`:
 - [ ] Apply the `User request` label to this Issue.
 - [ ] Use the `help@dewv.net` account to reply to the email using the "Request received" template.
-If not:
-- [ ] Use the `help@dewv.net` account to mail Derek Fincham using the "Operations problem" template.
+
+Else (this Issue was *not* mailed to `help@dewv.net`)
+- [ ] Use the `help@dewv.net` account to mail customers using the "Operations problem" template.
