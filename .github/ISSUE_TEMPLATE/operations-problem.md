@@ -13,7 +13,7 @@ assignees: ''
 - [ ] If the problem prevents check-in and/or check-out, or causes other *major* disruption to the NLC app, apply the `EMERGENCY` label to this Issue.
 
 If this issue was reported by mail to `help@dewv.net`:
-- [ ] Apply the `User request` label to this Issue.
+- [ ] Apply the `Customer request` label to this Issue.
 - [ ] Use the `help@dewv.net` account to reply to the email using the "Request received" template.
 
 Else (this Issue was *not* mailed to `help@dewv.net`)
