@@ -6,16 +6,16 @@ Our Service Level Agreement (SLA) requires continuous support staffing during cu
 
 
 
-| Start time: | 9:00 | 10:00 | 11:00 | 12:00 | 1:00 | 2:00 | 3:00 | 4:00 |
-| ---- | :--: | :---: | :---: | :---: | :--: | :--: | :--: | :--: |
-| Mon  | who? | Emre  |       | Emre  |      |      |      |
-| Wed  |      | Emre  |       | Emre  |      |      |      |      |
-| Fri  |      | Emre  |       | Emre  |      |      |      |      |
+| Start time: | 9:00 |  10:00  | 11:00 | 12:00 |  1:00  | 2:00 |  3:00  |  4:00   |
+| ----------- | :--: | :-----: | :---: | :---: | :----: | :--: | :----: | :-----: |
+| Mon         | Emre | Jereomy | Rayan | Cody  |  Cody  | Jake | Ricard |         |
+| Wed         | Emre | Hussam  | Rayan | Cody  | Hussam | Jake |        |         |
+| Fri         | Emre |  Rayan  | Rayan | Cody  | Hussam | Jake | Ricard | Jereomy |
 
-| Start time: | 9:00 | 10:40 | 12:00 | 1:15 | 2:40 | 4:05 |
-| ---- | :--: | :---: | :---: | :--: | :--: | :--: |
-| Tue  | who? |       |       |      |      |      |
-| Thu  |      |       |       |      |      |      |
+| Start time: |  9:00   | 10:40 | 12:00 |  1:15  |  2:40  |  4:05  |
+| ----------- | :-----: | :---: | :---: | :----: | :----: | :----: |
+| Tue         | Jereomy | Greg  | Greg  | Ricard | Lauren | Lauren |
+| Thu         | Jereomy | Greg  | Greg  | Ricard | Lauren | Lauren |
 
 ## Substitution agreements
 
