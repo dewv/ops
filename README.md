@@ -8,13 +8,13 @@
 
 | Task                   | Assignee |
 | ---------------------- | -------- |
-| SSL configuration test |          |
+| SSL configuration test |   Jake   |
 
 ### Daily recurring tasks
 | Task                 | Mon  | Tue  | Wed  | Thu  | Fri  |
 | -------------------- | ---- | ---- | ---- | ---- | ---- |
-| Server logs          |      |      |      |      |      |
-| Service availability |      |      |      |      |      |
+| Server logs          | Emre | Jereomy | Ricard | Cody | Lauren |
+| Service availability | Emre | Jereomy | Ricard    | Cody | Lauren |
 
 ## Week of Mon 18 March
 
