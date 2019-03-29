@@ -2,6 +2,20 @@
 
 [On-call rotation](onCallRotation.md)
 
+## Week of Mon 1 April
+
+### Weekly recurring tasks
+
+| Task                   | Assignee |
+| ---------------------- | -------- |
+| SSL configuration test |  Rayan   |
+
+### Daily recurring tasks
+| Task                 | Mon  | Tue  | Wed  | Thu  | Fri  |
+| -------------------- | ---- | ---- | ---- | ---- | ---- |
+| Server logs          | Cody | Jake | Emre | Greg | Hussam |
+| Service availability | Cody | Jake | Emre | Greg | Hussam |
+
 ## Week of Mon 25 March
 
 ### Weekly recurring tasks
