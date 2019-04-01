@@ -30,6 +30,7 @@ The staff member listed in the standard schedule is responsible for the SLA unle
 |      |      |       |       |
 
 ## Duty Log
+- Rayan Alkhuwaylid
 - Jereomy Ayres
 - Emre Yildirim Checked In - All Good
 - Steve Mattingly. Sample entry to start log. GH commit will automatically capture date and time.
