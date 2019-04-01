@@ -30,6 +30,7 @@ The staff member listed in the standard schedule is responsible for the SLA unle
 |      |      |       |       |
 
 ## Duty Log
+- Cody Broyles All was good for 12 o-clock hour
 - Rayan Alkhuwaylid
 - Jereomy Ayres
 - Emre Yildirim Checked In - All Good
