@@ -30,6 +30,7 @@ The staff member listed in the standard schedule is responsible for the SLA unle
 |      |      |       |       |
 
 ## Duty Log
+- Hussam Alroaithi all seems good, no emails for one hour 
 - Lauren Tydings No new emails
 - Cody Broyles All was good for 12 o-clock hour
 - Rayan Alkhuwaylid
