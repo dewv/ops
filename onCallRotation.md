@@ -30,7 +30,7 @@ The staff member listed in the standard schedule is responsible for the SLA unle
 |      |      |       |       |
 
 ## Duty Log
-- Hussam Alroaithi - I signed in from 8:40 to 10:40 all was clear, no issues for two hours 
+- Hussam Alroaithi - there was an issue earlier I couldn't login for awhile, but I checked in late from 8:40 to 10:40 all was clear, no issues for two hours 
 - Rayan Alkhuwaylid good for 11:00. 
 - Hussam Alroaithi all seems good, no emails for one hour 
 - Lauren Tydings No new emails
