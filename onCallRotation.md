@@ -30,6 +30,7 @@ The staff member listed in the standard schedule is responsible for the SLA unle
 |      |      |       |       |
 
 ## Duty Log
+- Ricard Castan - Good
 - Emre Yildirim-All Good
 - Hussam Alroaithi - there was an issue earlier I couldn't login for awhile, but I checked in late from 8:40 to 10:40 all was clear, no issues for two hours 
 - Rayan Alkhuwaylid good for 11:00. 
