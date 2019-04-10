@@ -30,6 +30,7 @@ The staff member listed in the standard schedule is responsible for the SLA unle
 |      |      |       |       |
 
 ## Duty Log
+- Emre Yildirim - No emails
 - Lauren Tydings - 4/9 no emails
 - Ricard Castan - Good for 1:15
 - Ricard Castan - Good
