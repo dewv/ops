@@ -30,6 +30,7 @@ The staff member listed in the standard schedule is responsible for the SLA unle
 |      |      |       |       |
 
 ## Duty Log
+- Rayan Alkhuwaylid
 - Hussam alroaithi - checked in for an hour , all good . 
 - Emre Yildirim - No emails
 - Lauren Tydings - 4/9 no emails
