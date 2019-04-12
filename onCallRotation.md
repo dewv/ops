@@ -30,6 +30,7 @@ The staff member listed in the standard schedule is responsible for the SLA unle
 |      |      |       |       |
 
 ## Duty Log
+- Lauren Tydings
 - Hussam alroaithi 
 - Hussam alroaithi - no emails 
 - Rayan Alkhuwaylid
