@@ -30,6 +30,7 @@ The staff member listed in the standard schedule is responsible for the SLA unle
 |      |      |       |       |
 
 ## Duty Log
+- Emre Yıldırım - Good
 - Ricard Castan -Good
 - Cody Broyles - Good through the 12pm and 1pm time slots.
 - Hussam alroaithi - good 
