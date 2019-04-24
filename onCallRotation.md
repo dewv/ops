@@ -30,6 +30,7 @@ The staff member listed in the standard schedule is responsible for the SLA unle
 |      |      |       |       |
 
 ## Duty Log
+- Hussam alroaithi - all good 
 - Emre Yildirim -No email
 - Hussam alroaithi 
 - Hussam alroaithi - good from 10 to 11 
