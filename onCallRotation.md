@@ -30,6 +30,7 @@ The staff member listed in the standard schedule is responsible for the SLA unle
 |      |      |       |       |
 
 ## Duty Log
+- Ricard Castan - Good
 - Emre Yildirim - No emails
 - Ricard Castan - good
 - Hussam alroaithi - no emails 
