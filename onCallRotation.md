@@ -1,5 +1,7 @@
 # On-call rotation
 
+This document is used to schedule and track staff coverage for unforeseeable operations tasks-- *reactive* work due to system problems or customer requests.
+
 Our Service Level Agreement (SLA) requires continuous support staffing during customer business hours: 9:00 am to 5:00 pm, Monday through Friday. 
 
 - When your shift starts, check the `help@dewv.net` mail inbox, and monitor it until your shift ends. Check the recent entries in the Duty Log below for any relevant information from the shift(s) preceding yours. Add an entry *to the top* of the Duty Log to generate a GitHub contribution, using `Report for duty` as the commit message.
@@ -12,14 +14,15 @@ Our Service Level Agreement (SLA) requires continuous support staffing during cu
 
 | Start time: | 9:00 |  10:00  | 11:00 | 12:00 |  1:00  | 2:00 |  3:00  |  4:00   |
 | ----------- | :--: | :-----: | :---: | :---: | :----: | :--: | :----: | :-----: |
-| Mon         | Emre | Jereomy | Rayan | Cody  |  Cody  | Jake | Ricard |         |
-| Wed         | Emre | Hussam  | Rayan | Cody  | Hussam | Jake |        | Hussam  |
-| Fri         | Emre |  Rayan  | Rayan | Cody  | Hussam | Jake | Ricard | Jereomy |
+| Mon         |      |         |       |       |        |      |        |         |
+| Wed         |      |         |       |       |        |      |        |         |
+| Fri         |      |         |       |       |        |      |        |         |
+
 
 | Start time: |  9:00   | 10:40 | 12:00 |  1:15  |  2:40  |  4:05  |
 | ----------- | :-----: | :---: | :---: | :----: | :----: | :----: |
-| Tue         | Jereomy | Greg  | Greg  | Ricard | Lauren | Lauren |
-| Thu         | Jereomy | Greg  | Greg  | Ricard | Lauren | Lauren |
+| Tue         |         |       |       |        |        |        |
+| Thu         |         |       |       |        |        |        |
 
 ## Substitution agreements
 
@@ -30,43 +33,6 @@ The staff member listed in the standard schedule is responsible for the SLA unle
 |      |      |       |       |
 
 ## Duty Log
-- Hussam alroaithi - no emails 
-- Ricard Castan - all good
-- Hussam alroaithi - all good 10 to 11 
-- Ricard Castan - Good
-- Emre Yildirim - No emails
-- Ricard Castan - good
-- Hussam alroaithi - no emails 
-- Emre Yildirim - No email 
-- Hussam alroaithi - good from 4 to 5 
-- Hussam alroaithi-no emails found 
-- Hussam alroaithi - all good 
-- Emre Yildirim -No email
-- Hussam alroaithi 
-- Hussam alroaithi - good from 10 to 11 
-- Emre Yıldırım - Good
-- Ricard Castan -Good
-- Cody Broyles - Good through the 12pm and 1pm time slots.
-- Hussam alroaithi - good 
-- Emre Yildirim - No emails
-- Emre Yildirim- No emails
-- Lauren Tydings
-- Hussam alroaithi 
-- Hussam alroaithi - no emails 
-- Rayan Alkhuwaylid
-- Hussam alroaithi - checked in for an hour , all good . 
-- Emre Yildirim - No emails
-- Lauren Tydings - 4/9 no emails
-- Ricard Castan - Good for 1:15
-- Ricard Castan - Good
-- Emre Yildirim-All Good
-- Hussam Alroaithi - there was an issue earlier I couldn't login for awhile, but I checked in late from 8:40 to 10:40 all was clear, no issues for two hours 
-- Rayan Alkhuwaylid good for 11:00. 
-- Hussam Alroaithi all seems good, no emails for one hour 
-- Lauren Tydings No new emails
-- Cody Broyles All was good for 12 o-clock hour
-- Rayan Alkhuwaylid
-- Jereomy Ayres
-- Emre Yildirim Checked In - All Good
+
 - Steve Mattingly. Sample entry to start log. GH commit will automatically capture date and time.
 - (Add new entries to the top of this log, not the bottom.)
