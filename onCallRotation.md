@@ -6,7 +6,7 @@ Our Service Level Agreement (SLA) requires continuous support staffing during cu
 
 - When your shift starts, check the `help@dewv.net` mail inbox, and monitor it until your shift ends. Check the recent entries in the Duty Log below for any relevant information from the shift(s) preceding yours. Add an entry *to the top* of the Duty Log to generate a GitHub contribution, using `Report for duty` as the commit message.
 - Respond to mail messages for new customer requests, using appropriate message templates ("signatures"). Templates include instructions for creating an Issue in this repo. At the same time, you should create a mailbox folder named `IssueX`, where `X` is the new Issue number.
-- Respond to new mail messages about existing customer initiated Issues *if* they are urgent or it otherwise seems appropriate. If it does not require immediate attention, you may leave it for the Customer Service Communications process at our next staff meeting.
+- Respond to new mail messages about existing customer initiated Issues *if* they are urgent or it otherwise seems appropriate. If it does not require immediate attention, you may leave it for the [Customer Service communications process](https://github.com/dewv/procedures/blob/master/customerServiceCommunications.md) at our next staff meeting.
 - When you respond to an incoming mail message, file it in the mailbox folder for the associated Issue. In other words, mail in the Inbox is mail that needs a response. *Do not leave it in the Inbox after you have responded to it.*
 - You may use the mailbox's Reminders feature or the Duty Log below if you need to coordinate a response with the co-worker whose shift follows yours.
 
