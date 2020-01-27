@@ -10,11 +10,11 @@ When you are scheduled to perform one of these tasks, create a new Issue in this
 
 | Task                   | Assignee |
 | ---------------------- | -------- |
-| SSL configuration test |          |
+| SSL configuration test |  Matthew        |
 
 ### Daily recurring tasks
 | Task                 | Mon   | Tue  | Wed  | Thu  | Fri  |
 | -------------------- | ----  | ---- | ---- | ---- | ---- |
-| Server logs          |       |      |      |      |      |
+| Server logs          | Rob      | Jonathan     |  Lauren    | Megan     | Matthew     |
 | Service availability |       |      |      |      |      |
 
