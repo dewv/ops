@@ -7,9 +7,12 @@ assignees: ''
 
 ---
 
-Access the production server using the appropriate account. Check the following. If you find anything that needs follow up or investigation, create appropriate Issues in this repository.
+Access the production server using the appropriate account. 
 
-- [ ] Check `/var/log/unattended-upgrades/unattended-upgrades.log` to verify that security updates installed without problems.
-- [ ] Run `grep 'Accepted password' /var/log/auth.log`; all search hits should be for one of two expected accounts.
-- [ ] Check `/var/log/syslog` for anything unusual. (Most entries will be hourly `cron` jobs.)
-- [ ] Run `~/logdays.sh 2` to identify log files updated within the last 48 hours. (Replace 2 with 3 on Mondays.) Browse some of these; especially unusual ones; look for anything out of the ordinary.
+Run `./daily.sh YYYY-MM-DD` where `YYYY-MM-DD` represents the start point for your check. On Mondays, this should be the date of the preceding Friday; on other days, it should be the preceding day. (This does mean that some log data will be checked twice, but redundant checks are better than gaps.)
+
+The script walks you through the process of checking various server health indicators. If you find problems or anything that seems out of the ordinary, create an Issue in this repo.
+
+Finally, close this Issue with a comment that *either*
+- links to the new Issues you created, *or* 
+- says "No issues found".
