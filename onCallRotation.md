@@ -34,7 +34,8 @@ The staff member listed in the standard schedule is responsible for the SLA unle
 
 ## Duty Log
 
+- Rob Fink - Reporting for duty
 - Megan Huffnagel - Reporting for duty
-- Rob Fink - Reporting for duty (Not sure if this is where I "sign in")
+- Rob Fink - Reporting for duty
 - Steve Mattingly. Sample entry to start log. GH commit will automatically capture date and time.
 - (Add new entries to the top of this log, not the bottom.)
