@@ -34,6 +34,7 @@ The staff member listed in the standard schedule is responsible for the SLA unle
 
 ## Duty Log
 
+- matt w - reporting for Duty
 - Rob Fink - Reporting for duty
 - Megan Huffnagel - Reporting for duty
 - Lauren Lunemann - Reported for duty
