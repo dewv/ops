@@ -4,45 +4,21 @@ This document is used to schedule and track *proactive* operations tasks-- fores
 
 When you are scheduled to perform one of these tasks, create a new Issue in this repo (which counts as a GitHub contribution). Choose the new Issue template that corresponds to the task you are performing. The Issue template will provide you with instructions for the task.
 
-## Week of Mon 10 Feb
+## Weekly recurring tasks
 
-### Weekly recurring tasks
+### SSL configuration test
 
-| Task                   | Assignee |
-| ---------------------- | -------- |
-| SSL configuration test |  Lauren        |
+| Who | When |
+| ------------- | ---- |
+|  Rob  | Mar 9; Apr 13 |
+|  Jonathan  | Mar 16; Apr 20 |
+|  Lauren  | Mar 23; Apr 27 |
+|  Megan  | Mar 30; May 4 |
+|  Matthew  | Apr 6 |
 
-### Daily recurring tasks
+
+## Daily recurring tasks (standard schedule)
+
 | Task                 | Mon   | Tue  | Wed  | Thu  | Fri  |
 | -------------------- | ----  | ---- | ---- | ---- | ---- |
 | Server logs          | Rob      | Jonathan     |  Lauren    | Megan     | Matthew     |
-| Service availability |       |      |      |      |      |
-
-## Week of Mon 03 Feb
-
-### Weekly recurring tasks
-
-| Task                   | Assignee |
-| ---------------------- | -------- |
-| SSL configuration test |  Megan        |
-
-### Daily recurring tasks
-| Task                 | Mon   | Tue  | Wed  | Thu  | Fri  |
-| -------------------- | ----  | ---- | ---- | ---- | ---- |
-| Server logs          | Rob      | Jonathan     |  Lauren    | Megan     | Matthew     |
-| Service availability |       |      |      |      |      |
-
-## Week of Mon 27 Jan
-
-### Weekly recurring tasks
-
-| Task                   | Assignee |
-| ---------------------- | -------- |
-| SSL configuration test |  Matthew        |
-
-### Daily recurring tasks
-| Task                 | Mon   | Tue  | Wed  | Thu  | Fri  |
-| -------------------- | ----  | ---- | ---- | ---- | ---- |
-| Server logs          | Rob      | Jonathan     |  Lauren    | Megan     | Matthew     |
-| Service availability |       |      |      |      |      |
-
