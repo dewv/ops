@@ -4,8 +4,8 @@ This document is used to schedule and track staff coverage for unforeseeable ope
 
 Our Service Level Agreement (SLA) requires continuous support staffing during customer business hours: 9:00 am to 5:00 pm, Monday through Friday. 
 
-- When your shift starts, check the `help@dewv.net` mail inbox, and monitor it until your shift ends. Check the recent entries in the Duty Log below for any relevant information from the shift(s) preceding yours. Add an entry *to the top* of the Duty Log to generate a GitHub contribution, using `Report for duty` as the commit message.
-- Respond to mail messages for new customer requests, using appropriate message templates ("signatures"). Templates include instructions for creating an Issue in this repo. At the same time, you should create a mailbox folder named `IssueX`, where `X` is the new Issue number.
+- When your shift starts, check the `help@dewv.net` mail inbox by monitoring your personal email through the outlook group, and monitor it until your shift ends. Check the recent entries in the Duty Log below for any relevant information from the shift(s) preceding yours. Add an entry *to the top* of the Duty Log to generate a GitHub contribution, using `Report for duty` as the commit message.
+- Respond to mail messages for new customer requests, using appropriate message templates. Templates include instructions for creating an Issue in this repo(these can be found in the email template folder in the outlook Devops group). At the same time, you should create a mailbox folder named `IssueX`, where `X` is the new Issue number.
 - Respond to new mail messages about existing customer initiated Issues *if* they are urgent or it otherwise seems appropriate. If it does not require immediate attention, you may leave it for the [Customer Service communications process](https://github.com/dewv/procedures/blob/master/customerServiceCommunications.md) at our next staff meeting.
 - When you respond to an incoming mail message, file it in the mailbox folder for the associated Issue. In other words, mail in the Inbox is mail that needs a response. *Do not leave it in the Inbox after you have responded to it.*
 - You may use the mailbox's Reminders feature or the Duty Log below if you need to coordinate a response with the co-worker whose shift follows yours.
@@ -14,15 +14,15 @@ Our Service Level Agreement (SLA) requires continuous support staffing during cu
 
 | Start time: | 9:00 |  10:00  | 11:00 | 12:00 |  1:00  | 2:00 |  3:00  |  4:00   |
 | ----------- | :--: | :-----: | :---: | :---: | :----: | :--: | :----: | :-----: |
-| Mon         | Jonathan | Lauren    |  Matthew    | Matthew| Matthew | Megan| Lauren |Jonathan |
-| Wed         | Jonathan | Lauren    |  Matthew    | Matthew| Matthew | Megan| Lauren |Jonathan |
-| Fri         | Jonathan | Lauren    |  Matthew    | Matthew| Matthew | Megan| Lauren |Jonathan |
+| Mon         |  |  |   | | | | ||
+| Wed         |  |     | |  | |  | |
+| Fri         |  |   |     | |  | |  | |
 
 
 | Start time: |  9:00   | 10:40 | 12:00 |  1:15  |  2:40  |  4:05  |
 | ----------- | :-----: | :---: | :---: | :----: | :----: | :----: |
-| Tue         | Matthew*        | Lauren      | Rob      |  Rob*      |  Rob*     | Matthew       |
-| Thu         | Matthew*        | Lauren      | Rob      |  Rob*      |  Rob*     | Matthew       |
+| Tue         |       |     |      |      |    |      |
+| Thu         |        |      |     |        |       |       |
 
 ## Substitution agreements
 
@@ -33,55 +33,5 @@ The staff member listed in the standard schedule is responsible for the SLA unle
 |      |      |       |       |
 
 ## Duty Log
-
-- Megan Huffnagel - Reporting for  duty
-- Lauren Lunemann - Reporting for duty
-- Rob Fink - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- Rob Fink - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- Rob Fink - Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- Matt W - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- Rob Fink - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Matt W - Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- Rob Fink - Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Matt W reporting for duty 
-- Lauren Lunemann - Reporting for duty
-- Rob Fink - Reporting for duty
-- Lauren Lunemann- Reporting for duty
-- Matt W - Reporting for duty
-- Megan Huffnagel -  Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- matt w - reporting for Duty
-- Rob Fink - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Lauren Lunemann - Reported for duty
-- Megan Huffnagel - Reporting for duty
-- matt weintraub- reporting for duty 
-- Rob Fink - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Matt Weintraub - Reporting for duty
-- Rob Fink - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Rob Fink - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Rob Fink - Reporting for duty
-- Matt Weintraub  - reporting for duty 
-- Rob Fink - Reporting for duty (Not sure if this is where I "sign in")
 - Steve Mattingly. Sample entry to start log. GH commit will automatically capture date and time.
 - (Add new entries to the top of this log, not the bottom.)
