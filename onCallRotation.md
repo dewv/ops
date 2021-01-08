@@ -2,86 +2,26 @@
 
 This document is used to schedule and track staff coverage for unforeseeable operations tasks-- *reactive* work due to system problems or customer requests.
 
-Our Service Level Agreement (SLA) requires continuous support staffing during customer business hours: 9:00 am to 5:00 pm, Monday through Friday. 
+Our Service Level Agreement (SLA) requires continuous support staffing during our customers' business hours: 9:00 am to 5:00 pm, Monday through Friday. IS Managers create a schedule to meet this SLA while accommodating staff scheduling constraints. The current schedule is posted in MS Teams under team DevOps, channel Operations Log.
 
-- When your shift starts, check the `help@dewv.net` mail inbox, and monitor it until your shift ends. Check the recent entries in the Duty Log below for any relevant information from the shift(s) preceding yours. Add an entry *to the top* of the Duty Log to generate a GitHub contribution, using `Report for duty` as the commit message.
-- Respond to mail messages for new customer requests, using appropriate message templates ("signatures"). Templates include instructions for creating an Issue in this repo. At the same time, you should create a mailbox folder named `IssueX`, where `X` is the new Issue number.
-- Respond to new mail messages about existing customer initiated Issues *if* they are urgent or it otherwise seems appropriate. If it does not require immediate attention, you may leave it for the [Customer Service communications process](https://github.com/dewv/procedures/blob/master/customerServiceCommunications.md) at our next staff meeting.
-- When you respond to an incoming mail message, file it in the mailbox folder for the associated Issue. In other words, mail in the Inbox is mail that needs a response. *Do not leave it in the Inbox after you have responded to it.*
-- You may use the mailbox's Reminders feature or the Duty Log below if you need to coordinate a response with the co-worker whose shift follows yours.
+When your shift starts:
+1. post to the Operations Log channel: "Reporting for duty"
+2. review Operations Log postings since your last shift-- especially recent ones-- so that you are up to speed on any events
 
-## Standard schedule
+Throughout your shift:
+1. monitor the status of our production systems using [Uptime Robot](https://stats.uptimerobot.com/mqlWQuZWM) and the [NLC app status page](https://dewv.net/nlc_attendance/status.json)
+2. monitor incoming mail for the Outlook group DevOps (devops@dewv.edu)
+3. use your college email to communicate to customers, using the appropriate message template (see below)
+4. post to the Operations Log as events warrant
 
-| Start time: | 9:00 |  10:00  | 11:00 | 12:00 |  1:00  | 2:00 |  3:00  |  4:00   |
-| ----------- | :--: | :-----: | :---: | :---: | :----: | :--: | :----: | :-----: |
-| Mon         | Jonathan | Lauren    |  Matthew    | Matthew| Matthew | Megan| Lauren |Jonathan |
-| Wed         | Jonathan | Lauren    |  Matthew    | Matthew| Matthew | Megan| Lauren |Jonathan |
-| Fri         | Jonathan | Lauren    |  Matthew    | Matthew| Matthew | Megan| Lauren |Jonathan |
+When your shift ends:
+1. post to the Operations Log channel: "End of watch"
+2. if applicable, summarize your shift: emails sent, tasks performed, ongoing problems, etc.
 
+The Operations Log channel contains templates for email communication with customers. The templates include instructions for creating an Issue in this repo. There are templates for these scenarios:
+- Notifying customers that we have identified a problem in production
+- Responding to a new request/problem report
+- Responding to new messages about an existing customer initiated Issue
 
-| Start time: |  9:00   | 10:40 | 12:00 |  1:15  |  2:40  |  4:05  |
-| ----------- | :-----: | :---: | :---: | :----: | :----: | :----: |
-| Tue         | Matthew*        | Lauren      | Rob      |  Rob*      |  Rob*     | Matthew       |
-| Thu         | Matthew*        | Lauren      | Rob      |  Rob*      |  Rob*     | Matthew       |
+You are responsible for handling all occurences of the first two scenarios on your shift. You may handle the third scenario *if* it seems urgent or otherwise appropriate. If it does not require immediate attention, you may leave it for the [Customer Service communications process](https://github.com/dewv/professional-experience/blob/master/customerServiceCommunications.md) at our next staff meeting.
 
-## Substitution agreements
-
-The staff member listed in the standard schedule is responsible for the SLA unless and until *their substitute* accepts responsibility by updating the following table.
-
-| Date | Start time | Who is scheduled? | Who is substituting? |
-| ---- | ---- | ----- | ----- |
-|      |      |       |       |
-
-## Duty Log
-
-- Megan Huffnagel - Reporting for  duty
-- Lauren Lunemann - Reporting for duty
-- Rob Fink - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- Rob Fink - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- Rob Fink - Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- Matt W - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- Rob Fink - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Matt W - Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- Rob Fink - Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Matt W reporting for duty 
-- Lauren Lunemann - Reporting for duty
-- Rob Fink - Reporting for duty
-- Lauren Lunemann- Reporting for duty
-- Matt W - Reporting for duty
-- Megan Huffnagel -  Reporting for duty
-- Lauren Lunemann - Reporting for duty
-- matt w - reporting for Duty
-- Rob Fink - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Lauren Lunemann - Reported for duty
-- Megan Huffnagel - Reporting for duty
-- matt weintraub- reporting for duty 
-- Rob Fink - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Matt Weintraub - Reporting for duty
-- Rob Fink - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Rob Fink - Reporting for duty
-- Megan Huffnagel - Reporting for duty
-- Rob Fink - Reporting for duty
-- Matt Weintraub  - reporting for duty 
-- Rob Fink - Reporting for duty (Not sure if this is where I "sign in")
-- Steve Mattingly. Sample entry to start log. GH commit will automatically capture date and time.
-- (Add new entries to the top of this log, not the bottom.)
