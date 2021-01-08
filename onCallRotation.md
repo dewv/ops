@@ -23,5 +23,5 @@ The Operations Log channel contains templates for email communication with custo
 - Responding to a new request/problem report
 - Responding to new messages about an existing customer initiated Issue
 
-You are responsible for handling all occurences of the first two scenarios on your shift. You may handle the third scenario *if* it seems urgent or otherwise appropriate. If it does not require immediate attention, you may leave it for the [Customer Service communications process]https://github.com/dewv/professional-experience/blob/master/2.specialist/customerServiceCommunications.md) at our next staff meeting.
+You are responsible for handling all occurences of the first two scenarios on your shift. You may handle the third scenario *if* it seems urgent or otherwise appropriate. If it does not require immediate attention, you may leave it for the [Customer Service communications process](https://github.com/dewv/professional-experience/blob/master/2.specialist/customerServiceCommunications.md) at our next staff meeting.
 
