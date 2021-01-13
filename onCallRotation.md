@@ -6,7 +6,7 @@ Our Service Level Agreement (SLA) requires continuous support staffing during ou
 
 When your shift starts:
 1. post to the Operations Log channel: "Reporting for duty"
-2. review Operations Log postings since your last shift-- especially recent ones-- so that you are up to speed on any events
+2. review Operations Log posts and this repo's Issues created since your last shift so that you are up to speed on recent events
 
 Throughout your shift:
 1. monitor the status of our production systems using [Uptime Robot](https://stats.uptimerobot.com/mqlWQuZWM) and the [NLC app status page](https://dewv.net/nlc_attendance/status.json)
@@ -16,12 +16,14 @@ Throughout your shift:
 
 When your shift ends:
 1. post to the Operations Log channel: "End of watch"
-2. if applicable, summarize your shift: emails sent, tasks performed, ongoing problems, etc.
+2. if applicable, summarize your shift: emails sent, Issues created, tasks performed, ongoing problems, etc.
 
-The Operations Log channel contains templates for email communication with customers. The templates include instructions for creating an Issue in this repo. There are templates for these scenarios:
+The Operations Log channel contains message templates for email communication with customers. There are templates for these scenarios:
 - Notifying customers that we have identified a problem in production
 - Responding to a new request/problem report
 - Responding to new messages about an existing customer initiated Issue
 
-You are responsible for handling all occurences of the first two scenarios on your shift. You may handle the third scenario *if* it seems urgent or otherwise appropriate. If it does not require immediate attention, you may leave it for the [Customer Service communications process](https://github.com/dewv/professional-experience/blob/master/2.specialist/customerServiceCommunications.md) at our next staff meeting.
+You are responsible for handling all occurences of the first two scenarios on your shift. The message templates require you to insert a "ticket number" that you generate by creating an Issue in this repo. There are corresponding Issue templates to be used for these two scenarios.
+
+You may handle the third scenario *if* it seems urgent or otherwise appropriate. If it does not require immediate attention, you may leave it for the [Customer Service communications process](https://github.com/dewv/professional-experience/blob/master/2.specialist/customerServiceCommunications.md) at our next staff meeting.
 
