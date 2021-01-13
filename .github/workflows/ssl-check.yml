@@ -1,0 +1,23 @@
+name: SSL config check
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * 3"
+    
+  create-issue:
+    runs-on: ubuntu-latest
+#      - uses: actions/checkout@v2
+        
+      - name: issue-bot
+        uses: imjohnbo/issue-bot@v2
+        with:
+          assignees: "smattingly, stevemattingly"
+          rotate-assignees: true 
+          labels: "SSL config check"
+          pinned: false
+          close-previous: false
+          title: "Check SSL configuration" 
+          body: "Run [this SSL config test suite](https://www.ssllabs.com/ssltest/analyze.html?d=www.dewv.net) and verify that the result is an A+ rating. If not, create appropriate Issue(s) in this repo."
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
