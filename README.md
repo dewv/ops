@@ -4,7 +4,7 @@ Ops expert Tom Limoncelli says that every effective ops team must define and pub
 
 # 1. How do users get help?
 
-The email help@dewv.net is available for users to email in any problems or suggestions that they have. We have established an on call rotation for members of the staff so that emails are viewed and responded to in a timely fashion. Any problems reported by the users are tracked to closure as GitHub Issues. 
+The email `devops@dewv.edu` is available for users to email in any problems or suggestions that they have. We have established an on call rotation for members of the staff so that emails are viewed and responded to in a timely fashion. Any problems reported by the users are tracked to closure as GitHub Issues. 
 
 # 2. What is an emergency?
 
