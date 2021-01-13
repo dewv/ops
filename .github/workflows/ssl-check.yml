@@ -11,9 +11,8 @@ jobs:
       - name: issue-bot
         uses: imjohnbo/issue-bot@v2
         with:
-          assignees: "smattingly, stevemattingly"
+          assignees: "BroadusA, brownk3, makarenkojDe, methenyk, MethenyS"
           rotate-assignees: true 
-          labels: "SSL config check"
           pinned: false
           close-previous: false
           title: "Check SSL configuration" 
