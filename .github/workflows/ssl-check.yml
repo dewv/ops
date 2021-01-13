@@ -4,11 +4,10 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 12 * * 3"
-    
+jobs:    
   create-issue:
     runs-on: ubuntu-latest
-#      - uses: actions/checkout@v2
-        
+    steps:    
       - name: issue-bot
         uses: imjohnbo/issue-bot@v2
         with:
