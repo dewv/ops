@@ -11,8 +11,9 @@ When your shift starts:
 Throughout your shift:
 1. monitor the status of our production systems using [Uptime Robot](https://stats.uptimerobot.com/mqlWQuZWM) and the [NLC app status page](https://dewv.net/nlc_attendance/status.json)
 2. monitor incoming mail for the Outlook group DevOps (devops@dewv.edu)
-3. use your college email to communicate to customers, using the appropriate message template (see below)
-4. post to the Operations Log as events warrant
+3. use your college email to reply to incoming customer mail, using the appropriate message template (see below)
+4. examine incoming automated messages that report system events, creating Issues in this repo as appropriate
+4. post status updates, questions, etc. to the Operations Log as events warrant
 
 When your shift ends:
 1. post to the Operations Log channel: "End of watch"
@@ -23,7 +24,7 @@ The Operations Log channel contains message templates for email communication wi
 - Responding to a new request/problem report
 - Responding to new messages about an existing customer initiated Issue
 
-You are responsible for handling all occurences of the first two scenarios on your shift. The message templates require you to insert a "ticket number" that you generate by creating an Issue in this repo. There are corresponding Issue templates to be used for these two scenarios.
+You are responsible for handling all occurrences of the first two scenarios on your shift. Their message templates require you to insert a "ticket number" that you generate by creating an Issue in this repo. There are corresponding Issue templates to be used for these two scenarios.
 
 You may handle the third scenario *if* it seems urgent or otherwise appropriate. If it does not require immediate attention, you may leave it for the [Customer Service communications process](https://github.com/dewv/professional-experience/blob/master/2.specialist/customerServiceCommunications.md) at our next staff meeting.
 
