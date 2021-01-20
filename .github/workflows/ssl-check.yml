@@ -16,7 +16,7 @@ jobs:
           pinned: false
           close-previous: false
           title: "Check SSL configuration" 
-          labels: "" 
+          labels: "issue-bot" 
           body: "Run [this SSL config test suite](https://www.ssllabs.com/ssltest/analyze.html?d=www.dewv.net) and verify that the result is an A+ rating. If not, create appropriate Issue(s) in this repo."
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
