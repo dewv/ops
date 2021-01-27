@@ -11,7 +11,7 @@ jobs:
       - name: issue-bot
         uses: imjohnbo/issue-bot@v2
         with:
-          assignees: "BroadusA, brownk3, jacobj1234, makarenkojDe, methenyk, MethenyS"
+          assignees: "brownk3, jacobj1234, methenyk, MethenyS, BroadusA, makarenkojDe"
           rotate-assignees: true 
           pinned: false
           close-previous: false
