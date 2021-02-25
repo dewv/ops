@@ -9,7 +9,7 @@ When your shift starts:
 2. review Operations Log posts and this repo's Issues created since your last shift so that you are up to speed on recent events
 
 Throughout your shift:
-1. monitor the status of our production systems using [Uptime Robot](https://stats.uptimerobot.com/mqlWQuZWM) and the [NLC app status page](https://dewv.net/nlc_attendance/status.json)
+1. monitor the status of our production systems using [Uptime Robot](https://stats.uptimerobot.com/pZrWQtXr5) and the [NLC app status page](https://dewv.net/nlc_attendance/status.json)
 2. monitor incoming mail for the Outlook group DevOps (devops@dewv.edu)
 3. use your college email to reply to incoming customer mail, using the appropriate message template (see below)
 4. examine incoming automated messages that report system events, creating Issues in this repo as appropriate
