@@ -13,7 +13,7 @@ assignees: ''
 
 **3. Give exact commands or use marked screenshots to show GUI-based changes**
 
-(Include commands to set the correct working directory, and/or use full paths. REDACT any sensitive information.)
+     (Include commands to set the correct working directory, and/or use full paths. REDACT any sensitive information.)
 
 **4. What production services will be affected by the changes?**
 
@@ -25,4 +25,4 @@ assignees: ''
 
 **8. List steps for safely backing out of these changes in case of difficulties**
 
-**9. Summarize the messages to be sent to customers and/or staff before, during (if needed), and after these changes
+**9. Summarize the messages to be sent to customers and/or staff before, during (if needed), and after these changes**
