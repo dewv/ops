@@ -1,7 +1,7 @@
 ---
 name: Scheduled maintenance
 about: Template for scheduled changes to the operational environment.
-title: "[SCHEDULED MAINTENANCE]"
+title: "[DESCRIBE THE SCHEDULED MAINTENANCE]"
 labels: Scheduled maintenance
 assignees: ''
 
@@ -13,7 +13,7 @@ assignees: ''
 
 **3. Give exact commands or use marked screenshots to show GUI-based changes**
 
-     (Include commands to set the correct working directory, and/or use full paths. REDACT any sensitive information.)
+     (Include commands to set the correct working directory, and/or use full paths. *Redact any sensitive information.*)
 
 **4. What production services will be affected by the changes?**
 
